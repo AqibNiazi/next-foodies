@@ -1,7 +1,7 @@
 import React from "react";
 
-const SharePage = () => {
-  return <div>SharePage</div>;
+const ShareMealPage = () => {
+  return <div>ShareMealPage</div>;
 };
 
-export default SharePage;
+export default ShareMealPage;
