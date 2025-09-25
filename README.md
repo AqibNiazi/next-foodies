@@ -63,7 +63,9 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-*(Add screenshots of the browsing meals page and upload meal page here if possible)*
+![Meals Page](/public/images/meals_Page.png)
+![Meal Details](/public/images/meal_details.png)
+![Share Meal](/public/images/Share_meals.png)
 
 ---
 
